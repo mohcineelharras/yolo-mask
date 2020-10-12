@@ -1,5 +1,10 @@
 # yolo-mask
 
+## Demonstration :
+
+![alt text](https://github.com/mohcineelharras/yolo-mask/gif.mp4)
+
+
 ## Requirements
 ```
 pip install numpy
@@ -68,4 +73,5 @@ mask_on :
 https://drive.google.com/drive/folders/1cJMfQ9tYSRgtwiaG_wumixHpIWGsm3od?usp=sharing
 weights :
 https://drive.google.com/file/d/1xYasjU52whXMLT5MtF7RCPQkV66993oR/view
+
 
