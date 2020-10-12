@@ -1,9 +1,10 @@
 # yolo-mask
 
 ## Demonstration :
+![](demo.gif)
 
-![alt text](https://github.com/mohcineelharras/yolo-mask/gif.mp4)
 
+The demo was on a surface pro 4 tablet which explains the number of fps I am getting per image.
 
 ## Requirements
 ```
